@@ -1,4 +1,4 @@
-# Wep
+# Welp for Heroku
 
 Find and review restrooms near you (NYC)
 
@@ -7,9 +7,14 @@ Find and review restrooms near you (NYC)
 In one terminal tab:
 
 ```
-cd frontend
-yarn install
-yarn start
+cd Desktop
+cd welp-deploy
+cd backend
+
+git add .
+git commit -am "message"
+git push -f heroku master
+git push -f heroku main
 ```
 
 In another:
