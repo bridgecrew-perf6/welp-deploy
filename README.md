@@ -11,6 +11,9 @@ cd Desktop
 cd welp-deploy
 cd backend
 
+heroku --version
+heroku login
+
 git add .
 git commit -am "message"
 git push -f heroku master
