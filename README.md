@@ -14,6 +14,9 @@ cd backend
 heroku --version
 heroku login
 
+heroku git:remote -a welp-nyc
+git remote -v
+
 git add .
 git commit -am "message"
 git push -f heroku master
