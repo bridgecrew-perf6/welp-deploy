@@ -23,14 +23,6 @@ git push -f heroku master
 git push -f heroku main
 ```
 
-In another:
-
-```
-cd backend
-yarn install
-yarn start
-```
-
 Requires an `.env` file for mapbox in `frontend` folder and an `.env` file for mongo in `backend` folder.
 
 Tags: [tags.md](https://github.com/sonnynomnom/welp/blob/main/docs/tags.md)
