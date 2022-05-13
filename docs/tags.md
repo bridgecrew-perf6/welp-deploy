@@ -2,20 +2,20 @@
 
 ```
 🌎 Public
-🏠 Spacious
+🍁 NYC Parks
 👶🏼 Baby Changing Station
+♿️ Accessible
+✋ Grab Bar
 🪞 No Mirror
 🗑 No Trash
-🍁 NYC Parks
 🕳 Basement
-✋ Grab Bar
 🔮 Ambience
 🕯 Candle
+🏠 Spacious
 📦 Claustrophobic
 🤮 Stanky
 💦 Wet
 🔐 Code
-♿️ Accessible
 ```
 
 Comment tags:
