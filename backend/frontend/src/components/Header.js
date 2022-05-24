@@ -18,7 +18,7 @@ import MoreIcon from '@mui/icons-material/MoreVert';
 import "./header.css";
 import TwitterIcon from '@mui/icons-material/Twitter';
 import InstagramIcon from '@mui/icons-material/Instagram';
-import TikTokIcon from '../../public/tiktok.svg';
+import tiktok from '../tiktok.svg';
 
 const Search = styled('div')(({ theme }) => ({
   position: 'relative',
